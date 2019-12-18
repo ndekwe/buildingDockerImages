@@ -1,5 +1,5 @@
-# buildingDockerImages
-This repository holds files which has been used to describe three ways of building Docker images.
+# Three ways to build Docker Images
+This repository holds files which have been used to describe three ways of building Docker images.
 
 # The 3 ways are the following:
 1. Building Docker image with a normal build
